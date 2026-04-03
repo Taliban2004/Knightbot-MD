@@ -14,9 +14,39 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
   </a> 
 </div>
 
----
+<div align="center">
+  <img src="https://img.shields.io/github/followers/mruniquehacker?style=for-the-badge&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Stars" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Forks" alt="Forks"/>
+  <img src="https://img.shields.io/github/watchers/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Watchers" alt="Watchers"/>
+</div>
 
-## 🚀 Steps to Deploy
+---
+<div>
+  <a href="https://www.thordata.com/products/residential-proxies?ls=YouTube&lk=Knightbot" target="_blank">
+    <img src="assets/thor.png" alt="ThorData Proxies" width="100%" />
+  </a>
+</div>
+
+<br>
+
+<div align="left">
+  <b>Thordata: Get Reliable Global Proxies at an Unbeatable Value.</b><br><br>
+  One-click data collection with enterprise-grade stability and compliance.<br>
+  Join thousands of developers using ThorData for high-scale operations.<br><br>
+  🎁 <b>Exclusive Offer:</b> Sign up for a free Residential Proxy trial and 2,000 <b>FREE SERP API calls!</b>
+</div>
+
+<br>
+
+<div align="left">
+  <a href="https://www.thordata.com/products/residential-proxies?ls=YouTube&lk=Knightbot" target="_blank">
+    <img src="https://img.shields.io/badge/Try now-28a745?style=for-the-badge" alt="Try now"/>
+  </a>
+</div>
+
+
+## 🚀 Steps to Deploy Bot
 
 ### Step 1: Fork the Repository
 
@@ -66,7 +96,7 @@ For further customization and setup guidance, click the button below:
   </a>
 </div>
 
-### Deploy Now on Below Panel
+### Deploy on Below Panel
 <div align="center">
 <a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
   <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
@@ -140,6 +170,25 @@ It is lightweight and can be easily customized to add more commands as per your 
 
 ---
 
+## ☕ Support Me
+
+<div align="center">
+
+<a href="https://buymeacoffee.com/mruniquehacker" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Developer-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee">
+</a>
+
+</div>
+
+If you find this project helpful and want to support the developer, consider buying me a coffee! Your support helps maintain and improve this open-source project.
+
+<div align="center">
+
+<img src="assets/bmc_qr.png" alt="Buy Me a Coffee QR Code" width="200">
+
+</div>
+
+---
 
 ## 📄 License
 
